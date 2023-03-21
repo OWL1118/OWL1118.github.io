@@ -17,3 +17,19 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     background-color: #495057;
     color: #fff;
 }
+:root{
+    --bs-primary: #2A48AC;
+    --bs-primary-rgb: 42,72,172:
+    --bs-secondary: #87959D;
+    --bs-secondary:#87959D;
+    --bs-secondary-rgb:135,149,157;
+}
+.expedu_icon:hover{
+    color: var(--bs-secondary);
+}
+a{
+    color:var(--bs-primary);
+}
+.social-icons .social-icon:hover{
+    background-color: var(--bs-secondary);
+}
