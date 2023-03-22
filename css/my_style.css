@@ -32,3 +32,6 @@ a{
 .social-icons .social-icon:hover{
     background-color: var(--bs-secondary);
 }
+a:hover{
+    color:#87959D;
+}
