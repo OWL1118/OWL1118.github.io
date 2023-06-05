@@ -41,7 +41,7 @@ td{border: 1px solid #495057;}
     background-color: var(--bs-secondary);
 }
 
-html,
+.portfolios.html,
 body {
     height: 100%;
     padding: 0;
