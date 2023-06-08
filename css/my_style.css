@@ -40,6 +40,9 @@ td{border: 1px solid #495057;}
 a.btn btn-primary my-2{
     background-color: var(--bs-secondary);
 }
+a.btn btn-primary my-2:hover{
+    background-color: var(--bs-secondary);
+}
 .btn-primary {
     color: #000;
     background-color: #2a48ac;
