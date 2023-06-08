@@ -41,7 +41,9 @@ a.btn btn-primary my-2{
     background-color: var(--bs-secondary);
 }
 a.btn btn-primary my-2:hover{
-    background-color: var(--bs-secondary);
+    color: rgb(255, 255, 255);
+    background-color:#142b75;
+    border-color: #142b75;
 }
 .btn-primary {
     color: rgb(255, 255, 255);
