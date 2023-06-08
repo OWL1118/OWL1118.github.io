@@ -45,7 +45,7 @@ a.btn btn-primary my-2{
     background-color: #2a48ac;
     border-color: #2a48ac;
   }
-  .btn-primary:hover {
+.btn-primary:hover {
     color: #000;
     background-color:#2a48ac;
     border-color: #2a48ac;
